@@ -4,7 +4,7 @@ bl_info = {
     "name": "My Script",
     "description": "Improvement The Home",
     "author": "DarthMoulByte",
-    "version": (0, 01),
+    "version": (0, 1),
     "blender": (2, 7, 0),
     "location": "Properties ",
     "warning": "Beta mo warranty, becarefull",
