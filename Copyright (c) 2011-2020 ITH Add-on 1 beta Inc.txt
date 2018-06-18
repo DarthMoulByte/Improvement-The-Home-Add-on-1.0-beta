@@ -1,4 +1,4 @@
-+ESPAÑOL Copyright (c) 2011-2020 GitHub Inc.
++ESPAÑOL Copyright (c) 2011-2020 Improvement The Home Add-on 1.0beta Inc.
  +
  +NO Se concede PROHIBE a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados
  +(el "Software"), para TRATAR EL SOFTWARE restricTIVO AL 100%, incluyendo CUALQUIER FORMA DE COPIA O IMITACION DEL MISMO,
@@ -16,7 +16,7 @@
  +CONEXIÓN CON EL SOFTWARE O EL USO O OTROS NEGOCIOS EN EL SOFTWARE.
  +
  +
- +ENGLISH Copyright (c) 2011-2020 GitHub Inc.
+ +ENGLISH Copyright (c) 2011-2020 Improvement The Home Add-on 1.0beta Inc.
  +
  +DOES NOT ALLOW AND PROHIBIT anyone who obtains a copy of this software and the associated documentation files
  +(the "Software"), TO TREAT THE 100% RESTRICTIVE SOFTWARE, INCLUDING ANY FORM OF COPYING OR IMITATION OF THE SAME,
